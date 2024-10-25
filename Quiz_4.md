@@ -1,4 +1,4 @@
-# Question 4
+# #Question 4
 You are given an array of five positive integers. Your task is to compute the minimum and maximum values that can be obtained by summing exactly four of these five integers. You need to print the minimum and maximum sums as space-separated integers on a single line. 
 
 ## Input:
@@ -14,7 +14,8 @@ You are given an array of five positive integers. Your task is to compute the mi
 ## Explanation:
 * The minimum sum is obtained by summing the smallest four integers: 1 + 2 + 3 + 4 = 10.
 * The maximum sum is obtained by summing the largest four integers: 2 + 3 + 4 + 5 = 14.
-## code
+
+## Code
 
 ```bash
 package diy7;

@@ -1,4 +1,4 @@
-# Question 3
+# #Question 3
 Write a Java program that allows the user to input a number and then searches for that number in a given 2D matrix. The program should return all the indices (row and column) of the number if it appears more than once. If the number does not exist in the matrix, the program should indicate that the number is not present.
 
 ## Input:
@@ -9,7 +9,7 @@ Write a Java program that allows the user to input a number and then searches fo
 ## Output:
 * Display all the indices of the number in the matrix or a message indicating that the number is not present.
 
-## code
+## Code
 
 ```bash
 package diy7;
