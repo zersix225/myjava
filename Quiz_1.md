@@ -1,7 +1,7 @@
 # Question 1
 You are given the array with size of n x m. Write the program to calculate the summation of each column in a 2D array.
 
-# Input:
+## Input:
 * The first line contains two integers n and m, representing the number of rows and columns of the array.
 * The next n lines each contain m integers, representing the elements of the array.
 
@@ -53,5 +53,5 @@ public class Quiz1 {
 กําหนดค่าตัวเเปร
 > rows คือ ค่าจํานวนเเถว, column คือ ค่าของเเถวคอลลัม เเละมีตัวเเปรอาเรย์ที่ชื่อ arr
 
-ลูปเเรก
+การทํางาน
 >
