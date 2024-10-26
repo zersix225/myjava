@@ -18,7 +18,6 @@ You are given an array of five positive integers. Your task is to compute the mi
 ## Code
 
 ```bash
-package diy7;
 import java.util.Scanner;
 public class Quiz4 {
     public static void main(String[] args) {

@@ -12,7 +12,6 @@ Write a Java program that allows the user to input a number and then searches fo
 ## Code
 
 ```bash
-package diy7;
 import java.util.Scanner;;
 public class Quiz3 {
     public static void main(String[] args) {
