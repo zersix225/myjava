@@ -1,4 +1,17 @@
-package diy7;
+# #Question 11
+Given two strings s and t, return true if s is a subsequence of t, or false otherwise. A **subsequence** of a string is a new string that is formed from the original string by deleting some (can be none) of the characters without disturbing the relative positions of the remaining characters. (i.e., "ace" is a subsequence of "abcde" while "aec" is not).
+
+## Input:
+* Shorter string s
+* Longer string t
+
+
+## Output:
+* True if s is a subsequence of t, false otherwise
+
+## Code
+
+```bash
 import java.util.Scanner;
 public class Quiz11 {
     public static void main(String[] args) {
@@ -25,3 +38,4 @@ public class Quiz11 {
         sc.close();
     }
 }
+```

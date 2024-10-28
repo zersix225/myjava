@@ -18,9 +18,7 @@ public class Quiz5 {
                 }
             }
         }
-
-        String result = (count == 26)? "Pangram" : "Not Pangram";
-        System.out.println(result);
+        System.out.println((count == 26? "Pangram" : "Not Pangram"));
 
         sc.close();
     }
